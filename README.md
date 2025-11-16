@@ -53,9 +53,9 @@
 
 | Categoria | Tecnologia |
 | :--- | :--- |
-| **Frontend Principal** | (Ajuste: Ex: React, Vue, ou Next.js) |
+| **Frontend Principal** | HTML, CSS , JAVASCRIPT |
 | **Estilização** | CSS3 / Styled Components (Ajuste: ou Bootstrap/Tailwind) |
 | **Linguagem** | JavaScript (ES6+) |
 | **Controle de Versão**| Git & GitHub |
 
-> **Atenção:** Por favor, ajuste as tecnologias listadas na tabela acima para refletir as ferramentas exatas que você utilizou no desenvolvimento da TecnoPoint Store.
+
